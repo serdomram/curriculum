@@ -18,7 +18,7 @@ sidebar:
     timezone: Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://serdomram.github.io/curriculum/ # Include the full website URL, including "http://" or "https://".
-    linkedin: linkedin.com/in/sergio-doménech-ramírez
+    linkedin: https://www.linkedin.com/in/sergio-dom%C3%A9nech-ram%C3%ADrez-b31a61293/
     xing: 
     github: serdomram
     telegram: # add your nickname without '@' sign
@@ -45,13 +45,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Photography
           link:
 
-        - item: Snowboarding
+        - item: Film making
           link:
 
-        - item: Cooking
+        - item: Videogames
           link:
 
 career-profile:
@@ -66,20 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Comunicación Audiovisual
+        university: Universitat Jaume I
+        time: 2019 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -92,9 +81,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: English to Spanish translator
+        time: 2022 - 2023
+        company: EML Translations
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,9 +96,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Production location assistant
+        time: 2023 - 2024
+        company: DE Location Managers
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,9 +107,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Community Manager
+        time: 2023 - 2024
+        company: Wild Garden
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
