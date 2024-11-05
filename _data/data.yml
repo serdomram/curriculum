@@ -66,7 +66,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Comunicación Audiovisual
+      - degree: Audiovisual Communication
         university: Universitat Jaume I
         time: 2019 - 2023
         details: |
@@ -85,39 +85,20 @@ experiences:
         time: 2022 - 2023
         company: EML Translations
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          I've worked as a translator for small indie games, mainly visual novels.
+
       - role: Production location assistant
         time: 2023 - 2024
         company: DE Location Managers
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I've worked as an assistant in a location based company for audiovisual productions in Valencia. During this time I also worked as blocker for some of these productions.
+
       - role: Community Manager
         time: 2023 - 2024
         company: Wild Garden
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I've worked as a community manager for a small start-up located in the United States. I was the one responsible of updating the webpage, delivering the newsletter and creating the visual assets for our social media.
+
 
 certifications:
       title: Certifications
